@@ -1,0 +1,38 @@
+{
+  "alpha_vantage": {
+    "key": "48322P707D5STQKR"
+  },
+  "ig":{
+    "demo": {
+      "key": "",
+      "uname": "",
+      "pword": "",
+      "account_id": ""
+    },
+    "live": {
+      "key": "",
+      "uname": "",
+      "pword": "",
+      "account_id": ""
+    },
+    "live": {
+      "key": "",
+      "uname": "",
+      "pword": "",
+      "account_id": ""
+    },
+    "is_demo": true
+  },
+  "algorithm":{
+    "spread_check": -3,
+    "chandelier_exit_multiplier": 2,
+    "profit_multiplier": 5,
+    "ESNA_new_margin": 21,
+    "too_high_margin": 100,
+    "greed_indicator": 99999,
+    "max_trades": 100,
+    "account_max_usage": 60,
+    "neg_margin": 100,
+    "trade_size": 10
+  }
+}
